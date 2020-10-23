@@ -1,12 +1,12 @@
-## Welcome to GitHub Pages
+## Welcome to My Pages
 
-You can use the [editor on GitHub](https://github.com/bentanust/btan.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Currently, I am a senior researcher at WeBank. I received my PhD degree in the Department of Computer Science and Engineering, HKUST, supervised by Prof. Qiang Yang. Before that, I received my master degree in the School of Computer Science, Fudan University, under the supervision of Prof.Junping Zhang, and I obtained my bachelor degree in the Department of Computer Science and Technology, Tongji University. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Contact
 
-### Markdown
+btan(at) connect (dot) ust (dot) hk
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+https://sites.google.com/view/btan
 
 ```markdown
 Syntax highlighted code block
